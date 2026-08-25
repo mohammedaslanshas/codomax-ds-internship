@@ -11,3 +11,7 @@
 | Day | Topic | What I Learned | Link |
    |-----|-------|-----------------|------|
    | 4 | File Handling + DS Intro | open()/with, CSV read/write, DS pipeline (collection→cleaning→EDA→viz→modeling), pandas basics | Day4.ipynb |
+
+  | Day | Topic | What I Learned | Link |
+   |-----|-------|-----------------|------|
+   | 5 | Pandas & NumPy Fundamentals | DataFrames, Series, np.where(), groupby(), filtering, sort_values() | Day5.ipynb |
