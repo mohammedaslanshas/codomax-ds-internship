@@ -15,3 +15,11 @@
   | Day | Topic | What I Learned | Link |
    |-----|-------|-----------------|------|
    | 5 | Pandas & NumPy Fundamentals | DataFrames, Series, np.where(), groupby(), filtering, sort_values() | Day5.ipynb |
+
+      | Day | Topic | What I Learned | Link |
+   |-----|-------|-----------------|------|
+   | 6 | Exploring Real CSV Datasets | pd.read_csv(), shape/head/tail, missing value %, duplicates, unique values, sorting | Day6.ipynb |
+
+   | Day | Topic | What I Learned | Link |
+   |-----|-------|-----------------|------|
+   | 7 | Cleaning & Organizing Data | Dropped/filled missing values, renamed columns, fixed dtypes (category/bool), debugged a KeyError from stale notebook state | Day7.ipynb |
