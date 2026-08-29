@@ -27,3 +27,7 @@
    | Day | Topic | What I Learned | Link |
    |-----|-------|-----------------|------|
    | 8 | Data Analysis Techniques | groupby aggregations, pivot tables, correlation matrix, reading correlation strength correctly | Day8.ipynb |
+
+   | Day | Topic | What I Learned | Link |
+   |-----|-------|-----------------|------|
+   | 9 | Data Visualization Basics | Bar/line/pie charts with Matplotlib, when to use each chart type, DataFrame creation methods (dict of lists, list of dicts) | Day9.ipynb |
