@@ -31,3 +31,7 @@
    | Day | Topic | What I Learned | Link |
    |-----|-------|-----------------|------|
    | 9 | Data Visualization Basics | Bar/line/pie charts with Matplotlib, when to use each chart type, DataFrame creation methods (dict of lists, list of dicts) | Day9.ipynb |
+
+   | Day | Topic | What I Learned | Link |
+   |-----|-------|-----------------|------|
+   | 10 | Histograms & Distributions | Reading distribution shapes (skew, symmetry), overlaid histograms for group comparison, boxplots for outlier detection | Day10.ipynb |
