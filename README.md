@@ -35,6 +35,7 @@
    | Day | Topic | What I Learned | Link |
    |-----|-------|-----------------|------|
    | 10 | Histograms & Distributions | Reading distribution shapes (skew, symmetry), overlaid histograms for group comparison, boxplots for outlier detection | Day10.ipynb |
+   
    | Day | Topic | What I Learned | Link |
 |-----|-------|-----------------|------|
 | 11 | Scatter Plots & Seaborn | Matplotlib/Seaborn scatter plots, hue for category coloring, Seaborn boxplot, correlation heatmap, reading correlation strength precisely | Day11.ipynb |
