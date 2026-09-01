@@ -39,3 +39,7 @@
    | Day | Topic | What I Learned | Link |
 |-----|-------|-----------------|------|
 | 11 | Scatter Plots & Seaborn | Matplotlib/Seaborn scatter plots, hue for category coloring, Seaborn boxplot, correlation heatmap, reading correlation strength precisely | Day11.ipynb |
+
+| Day | Topic | What I Learned | Link |
+|-----|-------|-----------------|------|
+| 12 | Storytelling with Data | Combined multi-chart dashboards, writing an insight-driven findings summary, connecting correlation strength to real conclusions | Day12.ipynb |
