@@ -43,3 +43,7 @@
 | Day | Topic | What I Learned | Link |
 |-----|-------|-----------------|------|
 | 12 | Storytelling with Data | Combined multi-chart dashboards, writing an insight-driven findings summary, connecting correlation strength to real conclusions | Day12.ipynb |
+
+| Day | Topic | What I Learned | Link |
+|-----|-------|-----------------|------|
+| 13 | ML Basics - Linear Regression | train_test_split, model.fit()/predict(), R², MAE, interpreting slope/intercept, manual predictions with 2D input | Day13.ipynb |
