@@ -47,3 +47,7 @@
 | Day | Topic | What I Learned | Link |
 |-----|-------|-----------------|------|
 | 13 | ML Basics - Linear Regression | train_test_split, model.fit()/predict(), R², MAE, interpreting slope/intercept, manual predictions with 2D input | Day13.ipynb |
+
+   | Day | Topic | What I Learned | Link |
+   |-----|-------|-----------------|------|
+   | 14 | Multi-Feature Regression | Multiple features in linear regression, interpreting coefficients, multicollinearity, House Price prediction | Day14.ipynb |
