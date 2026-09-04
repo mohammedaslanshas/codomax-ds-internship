@@ -51,3 +51,6 @@
    | Day | Topic | What I Learned | Link |
    |-----|-------|-----------------|------|
    | 14 | Multi-Feature Regression | Multiple features in linear regression, interpreting coefficients, multicollinearity, House Price prediction | Day14.ipynb |
+   | Day | Topic | What I Learned | Link |
+   |-----|-------|-----------------|------|
+   | 15 | Classification - Iris Flowers | LogisticRegression, accuracy/precision/recall/f1, confusion matrix, when perfect accuracy is expected vs suspicious | Day15.ipynb |
