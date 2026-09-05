@@ -54,3 +54,7 @@
    | Day | Topic | What I Learned | Link |
    |-----|-------|-----------------|------|
    | 15 | Classification - Iris Flowers | LogisticRegression, accuracy/precision/recall/f1, confusion matrix, when perfect accuracy is expected vs suspicious | Day15.ipynb |
+
+   | Day | Topic | What I Learned | Link |
+   |-----|-------|-----------------|------|
+   | 16 | Applying ML to Titanic | Encoding categorical variables, LogisticRegression on real data, interpreting coefficients, accuracy vs correlation distinction | Day16.ipynb |
