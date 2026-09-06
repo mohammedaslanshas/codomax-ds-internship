@@ -58,3 +58,6 @@
    | Day | Topic | What I Learned | Link |
    |-----|-------|-----------------|------|
    | 16 | Applying ML to Titanic | Encoding categorical variables, LogisticRegression on real data, interpreting coefficients, accuracy vs correlation distinction | Day16.ipynb |
+
+    ## Featured Project
+🎬 [Netflix Content Analysis](https://github.com/mohammedaslanshas/codomax-ds-internship/tree/main/netflix-mini-project) — Mini-project analyzing Netflix's catalog trends, genres, and ratings.
